@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mabus-world/static/css/main.d4b6ffd0.css",
-    "main.js": "/mabus-world/static/js/main.01a967ab.js",
+    "main.js": "/mabus-world/static/js/main.fcadbafe.js",
     "static/js/453.1813a8a4.chunk.js": "/mabus-world/static/js/453.1813a8a4.chunk.js",
     "index.html": "/mabus-world/index.html",
     "main.d4b6ffd0.css.map": "/mabus-world/static/css/main.d4b6ffd0.css.map",
-    "main.01a967ab.js.map": "/mabus-world/static/js/main.01a967ab.js.map",
+    "main.fcadbafe.js.map": "/mabus-world/static/js/main.fcadbafe.js.map",
     "453.1813a8a4.chunk.js.map": "/mabus-world/static/js/453.1813a8a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4b6ffd0.css",
-    "static/js/main.01a967ab.js"
+    "static/js/main.fcadbafe.js"
   ]
 }
