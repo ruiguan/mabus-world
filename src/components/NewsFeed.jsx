@@ -7,7 +7,7 @@ const NewsFeed = () => {
       title: "Power Nap No. 7",
       date: "Feb 2025",
       hashtag: "#NapQueen",
-      image: `${process.env.PUBLIC_URL}/mabu7.jpg`,
+      image: "mabu7.jpg",
       caption: "Achieved maximum relaxation levels today. Set a new personal record for consecutive hours of sleep."
     },
     {
@@ -15,7 +15,7 @@ const NewsFeed = () => {
       title: "Caught the Red Dot",
       date: "Feb 2025",
       hashtag: "#LaserChase",
-      image: `${process.env.PUBLIC_URL}/mabu8.jpg`,
+      image: "mabu8.jpg",
       caption: "The elusive red dot was finally mine! Well, for about 2 seconds before it disappeared again."
     },
     {
@@ -23,7 +23,7 @@ const NewsFeed = () => {
       title: "Window Watch Shift",
       date: "Feb 2025",
       hashtag: "#PigeonPatrol",
-      image: `${process.env.PUBLIC_URL}/mabu9.jpg`,
+      image: "mabu9.jpg",
       caption: "Spent 4 hours monitoring the neighborhood. No suspicious bird activity detected. All clear!"
     },
     {
@@ -31,7 +31,7 @@ const NewsFeed = () => {
       title: "Keyboard Occupation",
       date: "Feb 2025",
       hashtag: "#WorkInterruption",
-      image: `${process.env.PUBLIC_URL}/mabu10.jpg`,
+      image: "mabu10.jpg",
       caption: "Successfully prevented Rui from working by sitting on his keyboard. Mission accomplished!"
     },
     {
@@ -39,7 +39,7 @@ const NewsFeed = () => {
       title: "Yarn Ball Discovery",
       date: "Feb 2025",
       hashtag: "#ToyTime",
-      image: `${process.env.PUBLIC_URL}/mabu11.jpg`,
+      image: "mabu11.jpg",
       caption: "Found a new yarn ball in the craft room. It's now officially mine and hidden under the couch."
     },
     {
@@ -47,7 +47,7 @@ const NewsFeed = () => {
       title: "Sunbeam Meditation",
       date: "Feb 2025",
       hashtag: "#ZenMode",
-      image: `${process.env.PUBLIC_URL}/mabu12.jpg`,
+      image: "mabu12.jpg",
       caption: "Achieved perfect sunbeam alignment at 3 PM. The warmth was absolutely purr-fect."
     }
   ];
