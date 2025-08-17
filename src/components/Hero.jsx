@@ -18,7 +18,7 @@ const Hero = () => {
             onMouseEnter={handleImageHover}
           >
             <img 
-              src="/mabu-profile.jpg" 
+              src="%PUBLIC_URL%/mabu-profile.jpg" 
               alt="Mabu - CEO of Naps & Snacks" 
               className="w-full h-full object-cover"
             />

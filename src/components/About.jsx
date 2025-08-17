@@ -21,7 +21,7 @@ const About = () => {
             <div className="flex-shrink-0">
               <div className="w-48 h-48 lg:w-64 lg:h-64 rounded-full overflow-hidden border-4 border-purple-300 shadow-2xl">
                 <img 
-                  src="/mabu-about.jpg" 
+                  src="%PUBLIC_URL%/mabu-about.jpg" 
                   alt="Mabu Portrait" 
                   className="w-full h-full object-cover"
                 />
